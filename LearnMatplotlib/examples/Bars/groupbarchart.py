@@ -46,7 +46,7 @@ def autolabel(rects):
                 ha='center',
                 va='bottom')
 
-#autolabel(rects1)
+autolabel(rects1)
 autolabel(rects2)
 
 fig.tight_layout()
